@@ -1,1 +1,48 @@
+{
+  "releases": [
+    {
+      "version": "1.0",
+      "release_date": "2025.09.02",
+      "status": "stable",
+      "download_url": "https://github.com/nhantayninh/ntnOCRConverter/releases/tag/v1.0",
+      "changelog": "Phiên bản đầu tiên với các tính năng cơ bản",
+      "features": [
+        "Chuyển đổi PDF sang văn bản với OCR",
+        "Chuyển đổi ảnh sang văn bản",
+        "Chụp màn hình và nhận dạng văn bản",
+        "Xuất kết quả ra Word, LaTeX",
+        "Hệ thống quản lý bản quyền",
+        "Giao diện thân thiện với người dùng"
+      ],
+      "improvements": [
+        "Hỗ trợ tiếng Việt",
+        "Xử lý file PDF lớn",
+        "Tích hợp Gemini AI",
+        "Cache để tăng tốc độ"
+      ]
+    },
+    {
+      "version": "0.9",
+      "release_date": "2025.08.15",
+      "status": "beta",
+      "download_url": "https://github.com/nhantayninh/ntnOCRConverter/releases/tag/v0.9",
+      "changelog": "Phiên bản beta với các tính năng thử nghiệm",
+      "features": [
+        "OCR cơ bản cho PDF",
+        "Chuyển đổi ảnh đơn giản",
+        "Giao diện cơ bản"
+      ],
+      "improvements": [
+        "Tích hợp Tesseract OCR",
+        "Xử lý file cơ bản"
+      ]
+    }
+  ],
+  "latest_version": "1.0",
+  "last_checked": "2025.09.02",
+  "update_frequency": "weekly",
+  "repository_url": "https://github.com/nhantayninh/ntnOCRConverter",
+  "issues_url": "https://github.com/nhantayninh/ntnOCRConverter/issues",
+  "wiki_url": "https://github.com/nhantayninh/ntnOCRConverter/wiki"
+}
 
