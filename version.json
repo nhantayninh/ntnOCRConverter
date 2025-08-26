@@ -1,1 +1,20 @@
+{
+  "version": "1.0",
+  "release_date": "2025.09.02",
+  "download_url": "https://github.com/nhantayninh/ntnOCRConverter/releases/latest",
+  "min_required_version": "1.0",
+  "force_update": false,
+  "update_message": "Phiên bản mới với nhiều cải tiến và sửa lỗi",
+  "features": [
+    "Cải thiện độ chính xác OCR",
+    "Thêm tính năng chụp màn hình",
+    "Tối ưu hóa hiệu suất",
+    "Sửa các lỗi đã biết"
+  ],
+  "bugfixes": [
+    "Sửa lỗi crash khi xử lý file PDF lớn",
+    "Sửa lỗi hiển thị tiếng Việt",
+    "Cải thiện xử lý lỗi mạng"
+  ]
+}
 
