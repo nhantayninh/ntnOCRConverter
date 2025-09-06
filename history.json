@@ -4,7 +4,7 @@
       "version": "2.0.0",
       "release_date": "2025.09.09",
       "status": "stable",
-      "download_url": "https://github.com/nhantayninh/ntnOCRConverter/releases/tag/v2.0.0",
+      "download_url": "https://github.com/nhantayninh/ntnOCRConverter/releases/download/v2.0.0/ntnOCRConverter_v2.0.0.zip",
       "changelog": "Phiên bản cập nhật nhiều tính năng mới và sửa lỗi",
       "features": [
         "Thêm tính năng trình chiếu câu hỏi",
