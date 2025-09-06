@@ -1,7 +1,8 @@
 {
   "version": "2.0.0",
+  "url": "https://github.com/nhantayninh/ntnOCRConverter/releases/download/v2.0.0/ntnOCRConverter_v2.0.0.zip",
   "release_date": "2025.09.09",
-  "download_url": "https://github.com/nhantayninh/ntnOCRConverter/releases/latest",
+  "download_url": "https://github.com/nhantayninh/ntnOCRConverter/releases/download/v2.0.0/ntnOCRConverter_v2.0.0.zip",
   "min_required_version": "1.0",
   "force_update": false,
   "update_message": "Phiên bản mới cập nhật nhiều tính năng và sửa lỗi",
