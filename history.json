@@ -1,6 +1,25 @@
 {
   "releases": [
     {
+      "version": "2.0.0",
+      "release_date": "2025.09.09",
+      "status": "stable",
+      "download_url": "https://github.com/nhantayninh/ntnOCRConverter/releases/tag/v2.0.0",
+      "changelog": "Phiên bản cập nhật nhiều tính năng mới và sửa lỗi",
+      "features": [
+        "Thêm tính năng trình chiếu câu hỏi",
+    "Thêm tính năng gọi Prompt theo dạng bài tập hoặc câu hỏi",
+    "Thêm tính năng lưu và gọi Prompt đã được lưu",
+    "Tối ưu hóa tốc độ xử lý"
+      ],
+      "improvements": [
+        "Hỗ trợ trình chiếu",
+        "Gọi Prompt tạo sẵn và lưu",
+        "Dùng 1 Gemini API key",
+        "Cache để tăng tốc độ"
+      ]
+    },
+    {
       "version": "1.0",
       "release_date": "2025.09.02",
       "status": "stable",
