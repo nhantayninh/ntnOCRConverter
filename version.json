@@ -1,20 +1,20 @@
 {
-  "version": "1.0",
-  "release_date": "2025.09.02",
+  "version": "2.0.0",
+  "release_date": "2025.09.09",
   "download_url": "https://github.com/nhantayninh/ntnOCRConverter/releases/latest",
   "min_required_version": "1.0",
   "force_update": false,
-  "update_message": "Phiên bản mới với nhiều cải tiến và sửa lỗi",
+  "update_message": "Phiên bản mới cập nhật nhiều tính năng và sửa lỗi",
   "features": [
-    "Cải thiện độ chính xác OCR",
-    "Thêm tính năng chụp màn hình",
-    "Tối ưu hóa hiệu suất",
-    "Sửa các lỗi đã biết"
+    "Thêm tính năng trình chiếu câu hỏi",
+    "Thêm tính năng gọi Prompt theo dạng bài tập hoặc câu hỏi",
+    "Thêm tính năng lưu và gọi Prompt đã được lưu",
+    "Tối ưu hóa tốc độ xử lý"
   ],
   "bugfixes": [
-    "Sửa lỗi crash khi xử lý file PDF lớn",
-    "Sửa lỗi hiển thị tiếng Việt",
-    "Cải thiện xử lý lỗi mạng"
+    "Sửa lỗi ngắt câu tiếng Việt không hợp lý",
+    "Khắc phục lỗi encoding tiếng Việt",
+    "Sửa lỗi memory leak"
   ]
 }
 
