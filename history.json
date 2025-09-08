@@ -2,6 +2,23 @@
   "releases": [
     
     {
+      "version": "2.1.0",
+      "release_date": "2025.09.09",
+      "status": "stable",
+      "download_url": "https://github.com/nhantayninh/ntnOCRConverter/releases/download/v2.1.0/ntnOCRConverter_v2.1.0.zip",
+      "changelog": "Phiên bản cập nhật nhiều tính năng mới và sửa lỗi",
+      "features": [
+        "Thêm tính năng bật/tắt gọi lệnh Toggle Tex để chuyển công thức sang mathtypr ",
+        "Sửa lỗi nhận dạng sai phân số, dấu góc"
+      ],
+      "improvements": [
+        "Hỗ trợ trình chiếu",
+        "Gọi Prompt tạo sẵn và lưu",
+        "Dùng 1 Gemini API key",
+        "Cache để tăng tốc độ"
+      ]
+    },
+    {
       "version": "2.0.0",
       "release_date": "2025.09.09",
       "status": "stable",
