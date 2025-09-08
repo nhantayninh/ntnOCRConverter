@@ -5,7 +5,7 @@
       "version": "2.1.0",
       "release_date": "2025.09.09",
       "status": "stable",
-      "download_url": "https://github.com/nhantayninh/ntnOCRConverter/releases/download/v2.1.0/ntnOCRConverter_v2.1.0.zip",
+      "download_url": "https://github.com/nhantayninh/ntnOCRConverter/releases/download/v2.1.0/Setup_NTN_OCR_Converter.exe",
       "changelog": "Phiên bản cập nhật nhiều tính năng mới và sửa lỗi",
       "features": [
         "Thêm tính năng bật/tắt gọi lệnh Toggle Tex để chuyển công thức sang mathtypr ",
