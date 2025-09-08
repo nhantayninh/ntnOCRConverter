@@ -1,8 +1,8 @@
 {
   "version": "2.1.0",
   "release_date": "2025.09.09",
-  "download_url": "https://github.com/nhantayninh/ntnOCRConverter/releases/download/v2.1.0/ntnOCRConverter_v2.1.0.zip",
-  "setup_download_url": "",
+  "download_url": "https://github.com/nhantayninh/ntnOCRConverter/releases/download/v2.1.0/NTN_OCR_Converter.zip",
+  "setup_download_url": "https://github.com/nhantayninh/ntnOCRConverter/releases/download/v2.1.0/Setup_NTN_OCR_Converter.exe",
   "min_required_version": "1.0",
   "force_update": false,
   "update_message": "Phiên bản mới cập nhật nhiều tính năng và sửa lỗi",
