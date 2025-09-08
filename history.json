@@ -1,19 +1,6 @@
 {
   "releases": [
-    {
-      "version": "2.1.0",
-      "release_date": "2025.09.09",
-      "status": "stable",
-      "download_url": "https://github.com/nhantayninh/ntnOCRConverter/releases/download/v2.1.0/ntnOCRConverter_v2.1.0.zip",
-      "changelog": "Phiên bản cập nhật nhiều tính năng mới và sửa lỗi",
-      "features": [
-     "Thêm tính năng tuỳ chọn Toggle Tex",
-    "Tối ưu hóa tốc độ xử lý"
-      ],
-      "improvements": [
-        "Thêm tuỳ chọn bật/tắt Toggle Tex để chuyển công thức sang Mathtype"
-      ]
-    },
+    
     {
       "version": "2.0.0",
       "release_date": "2025.09.09",
