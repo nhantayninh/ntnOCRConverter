@@ -12,10 +12,8 @@
         "Sửa lỗi nhận dạng sai phân số, dấu góc"
       ],
       "improvements": [
-        "Hỗ trợ trình chiếu",
-        "Gọi Prompt tạo sẵn và lưu",
-        "Dùng 1 Gemini API key",
-        "Cache để tăng tốc độ"
+        "Thêm tính năng",
+        "Sửa một số lỗi nhận dạng, xuất kết quả"
       ]
     },
     {
