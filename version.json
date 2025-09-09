@@ -1,19 +1,21 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "release_date": "2025.09.09",
-  "download_url": "https://github.com/nhantayninh/ntnOCRConverter/releases/download/v2.1.0/NTN_OCR_Converter.zip",
-  "setup_download_url": "https://github.com/nhantayninh/ntnOCRConverter/releases/download/v2.1.0/Setup_NTN_OCR_Converter.exe",
-  "min_required_version": "1.0",
+  "download_url": "https://github.com/nhantayninh/ntnOCRConverter/releases/download/v2.1.1/NTN_OCR_Converter.zip",
+  "setup_download_url": "https://github.com/nhantayninh/ntnOCRConverter/releases/download/v2.1.1/Setup_NTN_OCR_Converter.exe",
+  "min_required_version": "1.1",
   "force_update": false,
   "update_message": "Phiên bản mới cập nhật nhiều tính năng và sửa lỗi",
   "features": [
-    "Thêm tính năng tuỳ chọn Toggle Tex",
+    "Thêm tính năng vẽ hình 3D với Matplotlib",
+    "Cải thiện tính năng chọn vùng chọn, không cần chỉnh Scale màn hình về 100%",
+    "Cải thiện tính năng chuyển file .tex sang file Word",
     "Tối ưu hóa tốc độ xử lý"
   ],
   "bugfixes": [
     "Sửa lỗi nhận dạng văn bản có công thức",
-    "Khắc phục lỗi encoding tiếng Việt",
-    "Sửa lỗi memory leak"
-  ]
+    "Sửa lỗi chọn vùng chọn, không cần chỉnh Scale màn hình về 100%",
+    "Khắc phục lỗi mất công thức khi chuyển tex sang word"
+  ],
 }
 
