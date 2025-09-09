@@ -1,6 +1,23 @@
 {
   "releases": [
-    
+    {
+      "version": "2.1.1",
+      "release_date": "2025.09.09",
+      "status": "stable",
+      "download_url": "https://github.com/nhantayninh/ntnOCRConverter/releases/download/v2.1.1/Setup_NTN_OCR_Converter.exe",
+      "changelog": "Phiên bản cập nhật nhiều tính năng mới và sửa lỗi",
+      "features": [
+        "Thêm tính năng vẽ hình 3D với Matplotlib",
+        "Cải thiện tính năng chọn vùng chọn, không cần chỉnh Scale màn hình về 100%",
+        "Cải thiện tính năng chuyển file .tex sang file Word",
+        "Tối ưu hóa tốc độ xử lý"
+      ],
+      "improvements": [
+        "Sửa lỗi nhận dạng văn bản có công thức",
+        "Sửa lỗi chọn vùng chọn, không cần chỉnh Scale màn hình về 100%",
+        "Khắc phục lỗi mất công thức khi chuyển tex sang word"
+      ]
+    },
     {
       "version": "2.1.0",
       "release_date": "2025.09.09",
