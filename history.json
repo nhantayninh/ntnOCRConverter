@@ -3,7 +3,7 @@
     {
       "version": "2.2.0",
       "release_date": "2025.09.11",
-      "status": "Ổn định",
+      "status": "Stable",
       "download_url": "https://github.com/nhantayninh/ntnOCRConverter/releases/download/v2.2.0/Setup_NTN_OCR_Converter_v2.2.0.exe",
       "changelog": "Phiên bản cập nhật nhiều tính năng mới và sửa lỗi",
       "features": [
