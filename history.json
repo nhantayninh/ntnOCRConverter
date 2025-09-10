@@ -1,6 +1,19 @@
 {
   "releases": [
     {
+      "version": "2.2.0",
+      "release_date": "2025.09.11",
+      "status": "Ổn định",
+      "download_url": "https://github.com/nhantayninh/ntnOCRConverter/releases/download/v2.2.0/Setup_NTN_OCR_Converter_v2.2.0.exe",
+      "changelog": "Phiên bản cập nhật nhiều tính năng mới và sửa lỗi",
+      "features": [
+        "Thêm tính năng soạn Đề kiểm tra theo ma trận bằng AI theo CV7991"
+      ],
+      "improvements": [
+        "Sửa một số lỗi nhỏ khác"
+      ]
+    },
+    {
       "version": "2.1.1",
       "release_date": "2025.09.09",
       "status": "stable",
